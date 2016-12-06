@@ -1,0 +1,24 @@
+{
+   "messages" : [
+      {
+         "sender": "Caitlin",
+         "content": "Good Morning!",
+         "date": "Dec 6th"
+      },
+      {
+         "sender": "Lucas",
+         "content": "fixed typo",
+         "date": "Dec 5th"
+      },
+      {
+         "sender": "James",
+         "content": "I'm the best",
+         "date": "Jan 1"
+      },
+      {
+         "sender": "Joel",
+         "content": "No, I'm the best",
+         "date": "Jan 2"
+      }
+   ]
+}
